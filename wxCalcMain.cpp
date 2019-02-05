@@ -191,8 +191,7 @@ void wxCalcFrame::OnButtonAceptarClick(wxCommandEvent& event)
     if (in == 3) numresultado = num1 / num2;
     if (in == 4) numresultado = (num1 * num2)/100;
     if (in == 5) {
-        //numd1 = num1;
-        //numresultado = numd1*squr;
+        //Acá método para raíz cuadrada.
     }
     if (in == 6) {
         int c = 1, p = 1;
