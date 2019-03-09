@@ -1,4 +1,179 @@
-                    GNU GENERAL PUBLIC LICENSE
+              Licencia de la librería wxWindows (WXwindows) 
+               https://opensource.org/licenses/WXwindows
+
+Derechos de autor (c) 1998 Julian Smart, Robert Roebling, Vaclav Slavik,
+Guilhem Lavaux, Vadim Zeitlin, Stefan Csomor, et al. Cualquiera esta
+autorizado a copiar y distribuir literalmente este documento de licencia,
+mas no está permitido cambiarlo. 
+
+TÉRMINOS Y CONDICIONES DE COPIA, DISTRIBUCIÓN Y MODIFICACIÓN
+
+Esta librería es software libre; puede redistribuirla o modificarla según
+los términos de la Licencia Pública General de la Librería GNU tal como lo
+publica Free Software Foundation; ya sea la versión 2 de la Licencia o 
+cualquier versión posterior. 
+
+Esta librería se distribuye con la esperanza de que sea útil, pero SIN 
+NINGUNA GARANTÍA; sin ni siquiera la garantía implícita de COMERCIABILIDAD
+o APTITUD PARA UN PROPÓSITO PARTICULAR. Vea la Licencia Pública General
+de la Librería GNU para más detalles. 
+
+Debería haber recibido (Al final de este documento) una copia de la Licencia
+Pública General de la Librería GNU junto con este software, generalmente en
+un archivo llamado COPYING.LIB. Si no, escriba a la Free Software Foundation,
+Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 EE. UU. 
+
+AVISO DE EXCEPCIÓN 
+
+1. Como excepción especial, los propietarios de los derechos de autor de esta
+librería otorgan permiso para usos adicionales del texto contenido en esta 
+versión de la librería bajo la licencia de la librería de wxWindows, aplicando
+la versión 3 de la Licencia o (a su elección) cualquier versión posterior de 
+la Licencia publicada por los titulares de derechos de autor de la versión 3 
+del documento de Licencia. 
+
+2. La excepción es que puede usar, copiar, vincular, modificar y distribuir 
+bajo los propios términos del usuario, versiones de código de objeto binario
+de trabajos basados en la Librería. 
+
+3. Si copia el código de los archivos distribuidos bajo los términos de la 
+Licencia Pública General de GNU o la Licencia Pública General de la Librería 
+de GNU en una copia de esta librería, ya que esta licencia lo permite, la 
+excepción no se aplica al código que agregue de esta forma. Para evitar engañar
+a cualquiera sobre el estado de dichos archivos modificados, debe eliminar 
+este aviso de excepción de dicho código o ajustar el aviso de condiciones de 
+licencia en consecuencia.
+
+4. Si escribe modificaciones propias para esta librería, es su elección si 
+permite que esta excepción se aplique a sus modificaciones. Si no lo desea, 
+debe eliminar el aviso de excepción de dicho código o ajustar el aviso de 
+condiciones de licencia en consecuencia.
+
+Licencia 
+
+wxWidgets actualmente está bajo la licencia "wxWindows Library License" 
+pendiente de la aprobación de la "wxWidgets Library License", que será 
+idéntica, aparte del nombre. 
+
+La Licencia de la Librería de wxWindows es esencialmente la L-GPL (Library
+General Public Licence), con una excepción que indica que las obras 
+derivadas en forma binaria pueden distribuirse en los propios términos del
+usuario. Esta es una solución que satisface a aquellos que desean producir
+software GPL utilizando wxWidgets, y también a aquellos que producen 
+software propietario. 
+
+Los participantes en la discusión que llevaron a esta decisión incluyen a 
+la gente de AbiSource, Robert Roebling, Julian Smart, Markus Fleck, Karsten
+Ballueder y algunos consejos de Richard Stallman. Stallman ha confirmado
+que la nueva licencia es compatible con las aplicaciones GPL. Sin embargo,
+no hay restricciones significativas en aplicaciones propietarias. 
+
+La licencia de la librería wxWindows ha sido aprobada por Open Source 
+Initiative. En agosto de 2005, se eliminó una ambigüedad en la Cláusula 2
+(reemplazó el usuario" por "su") y la versión pasó a 3.1. 
+
+Preámbulo 
+
+La licencia de la librería wxWidgets está destinada a proteger la librería
+wxWidgets, sus desarrolladores y sus usuarios, de modo que no se abusa de
+la inversión considerable que representa.
+
+Según los términos de las licencias originales de wxWidgets, usted como 
+usuario no está obligado a distribuir el código fuente de wxWidgets con sus
+productos, si distribuye estos productos en forma binaria. Sin embargo, se
+le impide restringir el uso de la librería en forma de código fuente, o 
+negarle a otros los derechos para usar o distribuir el código fuente de la
+librería wxWidgets de la forma prevista. 
+
+La licencia de la librería de wxWindows establece los derechos de autor del
+código y el material relacionado, y le otorga permiso legal para copiar, 
+distribuir o modificar la librería. También afirma que los autores no otorgan
+ninguna garantía para este o código derivado. 
+
+La distribución principal de la librería wxWidgets contiene archivos bajo dos
+licencias diferentes: 
+
+* La mayoría de los archivos se distribuyen bajo la Licencia Pública General
+de la Librería GNU, versión 2, con la excepción especial de que puede crear y
+distribuir versiones de código objeto construidas a partir del código fuente
+o versiones modificadas del mismo (incluso si estas versiones modificadas 
+incluyen código bajo una licencia diferente), y distribuir dichos binarios 
+bajo sus propios términos. 
+
+* La mayoría de los manuales básicos de wxWidgets están disponibles bajo la 
+"Licencia de documentación gratuita de wxWindows", que le permite distribuir
+versiones modificadas de los manuales, como las versiones que documentan 
+cualquier modificación que haya realizado en su versión de la librería. 
+Sin embargo, no puede restringir a ningún tercero la reincorporación de sus 
+cambios a los manuales originales. 
+
+
+               Licencia de la librería wxWindows, versión 3.1
+                  ======================================
+Copyright (c) 1998-2005 Julian Smart, Robert Roebling et al. 
+
+Todos están autorizados a copiar y distribuir copias textuales. 
+de este documento de licencia, pero no está permitido cambiarlo. 
+
+                LICENCIA DE LA BIBLIOTECA DE WXWINDOWS 
+  TÉRMINOS Y CONDICIONES DE COPIA, DISTRIBUCIÓN Y MODIFICACIÓN 
+
+Esta librería es software libre. Puedes redistribuirlo o 
+modificarlo, bajo los términos de la Licencia Pública General
+de la Librería GNU tal como fue publicada por la Fundación de
+Software Libre; ya sea la versión 2 de la Licencia, o (en su
+opción) cualquier versión posterior. 
+
+Esta librería se distribuye con la esperanza de que sea útil, 
+pero SIN  CUALQUIER GARANTÍA; sin siquiera la garantía implícita
+de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO PARTICULAR. Ver 
+la Librería General de GNU. 
+
+Licencia GNU para más detalles. 
+
+Debería haber recibido (Al final de este documento) una copia original
+de la Licencia Pública General de la Librería GNU junto con este
+software, generalmente en un archivo llamado COPYING.LIB. Si no, 
+escriba a la Free Software Foundation, Inc., 51 Franklin Street, 
+Quinto Piso, Boston, MA 02110-1301 USA. 
+
+AVISO DE EXCEPCIÓN 
+
+1. Como excepción especial, los titulares de derechos de autor 
+de esta librería dan permiso para usos adicionales del texto
+contenido en este comunicado de la  librería licenciada bajo
+la licencia de la librería wxWindows, aplicando ya sea  versión
+3.1 de la Licencia, o (a su elección) cualquier versión posterior
+de la Licencia publicada por los titulares de los derechos de 
+autor de la versión 3.1 de la misma.
+
+2. La excepción es que puede usar, copiar, vincular, modificar y
+distribuir bajo sus propios términos, las versiones de código 
+binario objeto de obras basadas en la Librería. 
+
+3. Si copia código de archivos distribuidos bajo los términos de
+la GNU Licencia Pública General o la Licencia Pública General de
+la Librería GNU en un  copia de esta librería, ya que esta licencia
+lo permite, la excepción no se aplica al código que agregues de esta
+manera. Para evitar engañar a cualquiera en cuanto al estado de dichos
+archivos modificados, debe eliminar este aviso de excepción de dicho
+código o ajustar las condiciones de licencia de aviso en consecuencia. 
+
+4. Si escribe modificaciones propias para esta librería, es su  elección
+si permite que esta excepción se aplique a sus modificaciones. Si usted
+no desea eso, debe eliminar el aviso de excepción de dicho código o 
+ajustar el aviso de condiciones de licencia en consecuencia.
+
+                                Traducido por H4KO@BLAHCORP
+                                jacoeche [@] gmail [.] com
+                                Risaralda - Colombia
+
+Por favor,, si encuentra alguna inconsitencia, errata o violación de
+términos no dude en contactarse.
+
+Copia del original de la Licencia GNU v.3
+
+                      GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
